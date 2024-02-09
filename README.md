@@ -8,7 +8,8 @@ the text_height property on line 39.
 
 # Missing Assets
 Given that this was for a Valentine's gift, I chose to keep my actual output personal. Instead, to use the script just fill the 'valentine_list' array with
-as many messages as you like, and the script will enumerate over the list, generating a new output image per string.
+as many messages as you like, and the script will enumerate over the list, generating a new output image per string. A new template image will also have
+to be supplied to the program, and its path added to the 'template_path' variable in order for the program to properly function.
 
 Additionally, './cute_font.ttf' is missing from the repository, but that may be replaced with any font file.
 
